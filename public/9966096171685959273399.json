@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095133707304",
+    "project_id": "lie-detector-scan-apps-set",
+    "storage_bucket": "lie-detector-scan-apps-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095133707304:android:c41d0ff7d1bfb739c1c91d",
+        "android_client_info": {
+          "package_name": "com.congorbejat.lidtcscnapst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095133707304-9pgrn1aftsds7s5ap3gg3q1jpi8jols1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQVZORlaXnFihAau29z4LyP-tzc_B6Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095133707304-9pgrn1aftsds7s5ap3gg3q1jpi8jols1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
